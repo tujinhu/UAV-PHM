@@ -39,12 +39,6 @@ By coupling **real UAVs**, **high-fidelity digital twins**, and a **data consist
 - Official Website: [https://www.rflysim.com](https://www.rflysim.com/)
 - Download: https://flyeval.com/docs/#/en/7_DownloadAndSupport/DownloadAndSupport
 
-```bibtex
-[1] Dai X, Ke C, Quan Q, et al. RFlySim: Automatic test platform for UAV autopilot systems with FPGA-based hardware-in-the-loop simulations. Aerospace Science and Technology, 2021, 114: 106727.
-
-[2] Dai X, Tu J, Quan Q. RflySim ToolChain: A Rapid Development and Validation Toolchain for Intelligent Unmanned Swarm Systems. Journal of Systems Engineering and Electronics, 2025, 36(4): 1077–1093.
-```
-
 ------
 
 ## 📁 Repository Structure
