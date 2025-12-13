@@ -125,8 +125,3 @@ Includes:
 - 🧠 **PHM model training** (classification / regression / uncertainty)
 
 ------
-
-## 📫 Contact
-
-
- **Email:** [tjhcsu@csu.edu.cn
